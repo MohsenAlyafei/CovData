@@ -1,4 +1,4 @@
-iso_code,date,daily_icu_admissions,daily_hosp_patients,icu_patients,hosp_patients,weekly_icu_admissions,weekly_hosp_admissions
+iso_code,date,daily_icu_admissions,daily_hosp_admissions,icu_patients,hosp_patients,weekly_icu_admissions,weekly_hosp_admissions
 QAT,16-May-2020,1,269,158,"1,308",,
 QAT,17-May-2020,18,242,165,"1,421",,
 QAT,18-May-2020,19,223,172,"1,436",,
