@@ -1,11 +1,11 @@
 State of Qatar Covid-19 Hospitalisation and ICU Data
 ---
 
-The csv file contains:
+Daily Data are from 16 May 2020 as issued by the Qatar Ministry of Public Health.
 
-
-File Fields are:
+csv file fields format are:
 ---
+
 
 iso_code  (OurWorldInData Field)
 
