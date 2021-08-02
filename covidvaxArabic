@@ -141,18 +141,20 @@ Country Page Header Text
 ===================================
 
 Total Doses / per 100
-
+إجمالي الجرعات التقديري / النسبة لكل 100 شخص
 
 People Vaccinated / % of Population
+الأشخاص المطعمون / النسبة من السكان
 
 
 Completed Vaccinations / % of Population
-
+الأشخاص المطعمون كاملاً / النسبة من السكان
 
 Reported Doses / Reported Date
-
+إجمالي الجرعات المعلنة رسميًا / تاريخ الإعلان
 
 Daily Doses / 7 Day Change
+معدل الجرعات اليومي / تغير آخر 7 أيام
 
 ==========
 Graph
@@ -161,18 +163,27 @@ Graph
 ========== Graph Options ============
 
 Vaccination Dose Trend
+بيانات الجرعات
 
 People Vaccinated Trend
+بيانات المطعمون
 
 Doses vs Cases
+الجرعات مقابل الحالات
 
 Doses vs Deaths
+الجرعات مقابل الوفيات
+
 
 Daily Trend for last 30 days
+المؤشر اليومي لآخر 30 يومًا
 
 Enable chart scroll and zoom
+تفعيل خيار التمرير والتكبير
 
 Disable chart scroll and zoom
+إلغاء خاصية التمرير والتكبير
+
 
 ============= Graph Titles Below Graph ===========
 
@@ -180,7 +191,7 @@ Reported Doses
 الجرعات المعلنة
 
 Estimated Doses
-الجرعات التقدرية
+الجرعات التقديرية
 
 Daily Doses
 الجرعات اليومية
@@ -189,10 +200,19 @@ Daily Doses
 المتوسط المتحرك لـ7 أيام
 
 People Completed Vaccination
+أشخاص أكملوا التطعيم
+
 People Started Vaccination
+أشخاص بدأوا التطعيم
+
 Vaccination Completed Ratio
+نسبة التطعيم المكتمل
+
 Daily Cases
+الحالات اليومية
+
 Daily Deaths
+الوفيات اليومية
 
 
 ==========
@@ -200,35 +220,78 @@ Table
 ==========
 
 Show Vaccination Details
+إظهار بيانات التطعيم
+
 Hide Vaccination Details
+إخفاء بينات التطعيم
+
 Show All
+إظهار الكل
+
 Only Show Reported
+إظهار البيانات الرسمية فقط
 
 ========= Country Table 1st Row ===========
 
 Vaccinations
+الجرعات
+
 People *where data available
+الأشخاص المطعّمين (البيانات المتاحة)
+
 Rate
+المعدلات
 
 ========= Country Table 2nd Row ===========
 
 Date
+التاريخ
+
+Total Doses
+إجمالي الجرعات التقديري
+
 per 100 people
+لكل 100 شخص
+
 New Doses
+جرعات جديدة
+
 Reported Doses
+الجرعات المعلنة رسميًا
+
 Vaccinated
+أشخاص مطعمون
 %
+%
+
 Completed Vaccination
+أشخاص مطعمون كاملاً
+
 %
+%
+
 Rate per Sec
+جرعة في الثانية
+
 7 Day Avg.
+متوسط 7 أيام
+
 
 ======= Country Table Footer =====
 Last Reported Date
+تاريخ آخر بيانات معلنة
+
 Reported Doses
+الجرعات المعلنة
+
 Source
+المصدر
+
 Vaccine(s) used
+اللقاحات المستخدمة
+
 Population
+تعداد السكان
 
 
 
