@@ -1,8 +1,10 @@
-=========================================================
-                       Main Page
-=========================================================
+*********************************************************
+                     Main Page
+*********************************************************
 
-============= Page Header ============
+===================================
+Main Page Header Text
+====================================
 
 
 Total Doses / per 100
@@ -21,6 +23,43 @@ Completed Vaccinations / % of Population
 أشخاص بتطعيم كامل / النسبة من السكان
 
 
+===================================
+Main Page Graph
+===================================
+
+========== Graph Options ============
+
+Daily Trend for last 30 days
+المؤشر اليومي لآخر 30 يومًا
+
+Enable chart scroll and zoom
+تفعيل خيار التمرير والتكبير
+
+Disable chart scroll and zoom
+إلغاء خاصية التمرير والتكبير
+
+
+============= Graph Titles Below Graph ===========
+
+Reported Doses
+الجرعات المعلنة
+
+Estimated Doses
+الجرعات التقدرية
+
+Daily Doses
+الجرعات اليومية
+
+7-Day Moving Average
+المتوسط المتحرك لـ7 أيام
+
+
+===================================
+Main Page Table
+===================================
+
+====== Main Page Table Options ================
+
 Show More Details
 أظهر بيانات تفصيلية
 
@@ -33,15 +72,8 @@ Include Small Nations
 Hide Small Nations
 إخفاء الدول الصغيرة
 
-===================================
-Table
-===================================
 
-====== Table Options ================
-
-
-
-========= First Table Row ==============
+========= Main Table First Row ==============
 Vaccine Doses
 جرعات اللقاحات
 
@@ -54,7 +86,7 @@ Rates
 Date Projections
 التواريخ المتوقعة
 
-========= 2nd Table Row ==============
+========= Main Table 2nd Row ==============
 
 Country
 الدولة
@@ -99,13 +131,13 @@ Daily Doses per Mil
 
 
 
-=========================================================
+*********************************************************
                      Country Page
-=========================================================
+*********************************************************
 
-===========
-Page Header
-===========
+===================================
+Country Page Header Text
+===================================
 
 Total Doses / per 100
 
@@ -141,12 +173,20 @@ Enable chart scroll and zoom
 
 Disable chart scroll and zoom
 
-============= Graph Titles ===========
+============= Graph Titles Below Graph ===========
 
 Reported Doses
+الجرعات المعلنة
+
 Estimated Doses
+الجرعات التقدرية
+
 Daily Doses
+الجرعات اليومية
+
 7-Day Moving Average
+المتوسط المتحرك لـ7 أيام
+
 People Completed Vaccination
 People Started Vaccination
 Vaccination Completed Ratio
@@ -163,12 +203,13 @@ Hide Vaccination Details
 Show All
 Only Show Reported
 
-========= First Table Row ===========
+========= Country Table 1st Row ===========
+
 Vaccinations
 People *where data available
 Rate
 
-========= 2nd Table Row ===========
+========= Country Table 2nd Row ===========
 
 Date
 per 100 people
@@ -181,7 +222,7 @@ Completed Vaccination
 Rate per Sec
 7 Day Avg.
 
-======= Table Footer =====
+======= Country Table Footer =====
 Last Reported Date
 Reported Doses
 Source
