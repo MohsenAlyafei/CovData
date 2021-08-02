@@ -34,10 +34,14 @@ Hide Small Nations
 إخفاء الدول الصغيرة
 
 ===================================
-Table Columns
+Table
 ===================================
 
-========= First Row ==============
+====== Table Options ================
+
+
+
+========= First Table Row ==============
 Vaccine Doses
 جرعات اللقاحات
 
@@ -50,7 +54,7 @@ Rates
 Date Projections
 التواريخ المتوقعة
 
-========= 2nd Row ==============
+========= 2nd Table Row ==============
 
 Country
 الدولة
@@ -105,6 +109,85 @@ Page Header
 
 Total Doses / per 100
 
+
 People Vaccinated / % of Population
+
+
+Completed Vaccinations / % of Population
+
+
+Reported Doses / Reported Date
+
+
+Daily Doses / 7 Day Change
+
+==========
+Graph
+==========
+
+========== Graph Options ============
+
+Vaccination Dose Trend
+
+People Vaccinated Trend
+
+Doses vs Cases
+
+Doses vs Deaths
+
+Daily Trend for last 30 days
+
+Enable chart scroll and zoom
+
+Disable chart scroll and zoom
+
+============= Graph Titles ===========
+
+Reported Doses
+Estimated Doses
+Daily Doses
+7-Day Moving Average
+People Completed Vaccination
+People Started Vaccination
+Vaccination Completed Ratio
+Daily Cases
+Daily Deaths
+
+
+==========
+Table
+==========
+
+Show Vaccination Details
+Hide Vaccination Details
+Show All
+Only Show Reported
+
+========= First Table Row ===========
+Vaccinations
+People *where data available
+Rate
+
+========= 2nd Table Row ===========
+
+Date
+per 100 people
+New Doses
+Reported Doses
+Vaccinated
+%
+Completed Vaccination
+%
+Rate per Sec
+7 Day Avg.
+
+======= Table Footer =====
+Last Reported Date
+Reported Doses
+Source
+Vaccine(s) used
+Population
+
+
 
 
