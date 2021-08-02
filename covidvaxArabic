@@ -17,10 +17,10 @@ Daily Doses / 7 Day Change
 الجرعات اليومية / تغير آخر 7 أيام
 
 People Vaccinated / % of Population
-الأشخاص المحصنون / النسبة من السكان
+الأشخاص المطعّمون / النسبة من السكان
 
 Completed Vaccinations / % of Population
-أشخاص بتطعيم كامل / النسبة من السكان
+أشخاص مطعّمون كاملاً / النسبة من السكان
 
 
 ===================================
@@ -61,10 +61,10 @@ Main Page Table
 ====== Main Page Table Options ================
 
 Show More Details
-أظهر بيانات تفصيلية
+إظهار بيانات تفصيلية
 
 Show Less Details
-بيانات أقل
+إظهار بيانات أقل
 
 Include Small Nations
 إظهار الدول الصغيرة
@@ -93,7 +93,7 @@ Country
 الدولة
 
 Total Doses
-مجموع الجرعات التقديري
+إجمالي الجرعات التقديري
 
 per 100 people
 لكل 100 شخص
@@ -102,13 +102,13 @@ Reported Doses
 الجرعات المعلنة
 
 People Vaccinated
-عدد الأشخاص المحصنون
+عدد الأشخاص المطعّمون
 
 % of Pop
 النسبة من السكان
 
 Completed Vaccination
-أشخاص بتطعيم كامل
+أشخاص مطعّمون كاملاً
 
 % of Pop
 النسبة من السكان
@@ -144,7 +144,7 @@ Total Doses / per 100
 إجمالي الجرعات التقديري / النسبة لكل 100 شخص
 
 People Vaccinated / % of Population
-الأشخاص المطعمون / النسبة من السكان
+الأشخاص المطعّمون / النسبة من السكان
 
 
 Completed Vaccinations / % of Population
@@ -223,7 +223,7 @@ Show Vaccination Details
 إظهار بيانات التطعيم
 
 Hide Vaccination Details
-إخفاء بينات التطعيم
+إخفاء بيانات التطعيم
 
 Show All
 إظهار الكل
@@ -260,12 +260,12 @@ Reported Doses
 الجرعات المعلنة رسميًا
 
 Vaccinated
-أشخاص مطعمون
+أشخاص مطعّمون
 %
 %
 
 Completed Vaccination
-أشخاص مطعمون كاملاً
+أشخاص مطعّمون كاملاً
 
 %
 %
